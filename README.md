@@ -30,7 +30,7 @@ No special requirements
 
 To run application press the "Generete password" button and answer each prompt. Then application will generate random password including selected by user lowercase, uppercase, numeric, and/or special characters.
 
-Screenshot located in a root folder
+Screenshot located in ``` assets/images ``` folder
 
 ![Generate-pass-easy](screenshot.png)
    
