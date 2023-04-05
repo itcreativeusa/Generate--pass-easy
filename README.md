@@ -32,7 +32,7 @@ To run application press the "Generete password" button and answer each prompt. 
 
 Screenshot located in ``` assets/images ``` folder
 
-![Generate-pass-easy](screenshot.png)
+![Generate-pass-easy](assets/images/screenshot.png)
    
 
 ## Credits
