@@ -37,7 +37,7 @@ Screenshot located in ``` assets/images ``` folder
 
 ## Credits
 
-
+Code 90% of code including : index.html, style.css, script.js provided by Berkeley Bootcamp for studying purposes. My code was added to existing script.js.  
 
 ## License
 
