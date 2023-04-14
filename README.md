@@ -2,10 +2,10 @@
 ## Description
 
 Link to deployed application
- https://itcreativeusa.github.io/Generate-pass-easy
+ https://itcreativeusa.github.io/generate-pass-easy
 
 Github link 
-https://github.com/itcreativeusa/Generate-pass-easy
+https://github.com/itcreativeusa/generate-pass-easy
 
 This application is a Javascript random password generator. It was created as a bootcamp everyweek student challege.
 Password generaor is easy to use. User need to press the "Generete password" button and follow application instuctions by answering each prompt. The length of password from is 8 up to 128 characters. At least one character type should be selected. Password could be generated with lowercase, uppercase, numeric, and/or special characters.
