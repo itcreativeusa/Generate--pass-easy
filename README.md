@@ -7,8 +7,8 @@ Link to deployed application
 Github link 
 https://github.com/itcreativeusa/generate-pass-easy
 
-This application is a Javascript random password generator. It was created as a bootcamp everyweek student challege.
-Password generaor is easy to use. User need to press the "Generete password" button and follow application instuctions by answering each prompt. The length of password from is 8 up to 128 characters. At least one character type should be selected. Password could be generated with lowercase, uppercase, numeric, and/or special characters.
+This application is a Javascript random password generator. It was created as a boot camp every week student challenge.
+The password generator is easy to use. User need to press the "Generate password" button and follow application instructions by answering each prompt. The length of the password is 8 up to 128 characters. At least one character type should be selected. A password with lowercase, uppercase, numeric, and/or special characters could be generated.
  
 ## Table of Contents (Optional)
 
@@ -28,7 +28,7 @@ No special requirements
 
 ## Usage
 
-To run application press the "Generete password" button and answer each prompt. Then application will generate random password including selected by user lowercase, uppercase, numeric, and/or special characters.
+To run the application, press the "Generate password" button and answer each prompt. Then the application will generate random password including those selected by the user in lowercase, uppercase, numeric, and/or special characters.
 
 Screenshot located in ``` assets/images ``` folder
 
@@ -36,7 +36,7 @@ Screenshot located in ``` assets/images ``` folder
    
 
 ## Credits
-90% of code including : index.html, style.css, script.js provided by Berkeley Bootcamp for studying purposes. My code was added to existing script.js.  
+90% of the code, including index.html, style.css, and script.js provided by Berkeley Bootcamp for studying purposes. My code was added to the existing script.js.  
 
 ## License
 
